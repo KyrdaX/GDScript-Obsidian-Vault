@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Starting up/1.1) Introduction.md",
+                "file": "3) Operators/3.4) Logic operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1) Introduction"
+              "title": "3.4) Logic operators"
             }
           },
           {
@@ -153,16 +153,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Operators/3.2) Assignment operators.md",
+                "file": "4) Conditionals/4.1) If conditionals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2) Assignment operators"
+              "title": "4.1) If conditionals"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,24 +328,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "90ee033166e5e1f6",
+  "active": "ab9abf8b314f62c0",
   "lastOpenFiles": [
-    "1) Starting up/1.3) Comments.md",
-    "3) Operators/3.2) Assignment operators.md",
-    "2) Variables/2.10) Dictionaries.md",
-    "2) Variables/2.3) Assigning a value.md",
-    "2) Variables/2.1) What is a variable.md",
-    "1) Starting up/1.2) First line of code.md",
+    "3) Operators/3.3) Comparison operators.md",
+    "3) Operators/3.4) Logic operators.md",
+    "4) Conditionals/4.1) If conditionals.md",
     "1) Starting up/1.1) Introduction.md",
+    "3) Operators/3.2) Assignment operators.md",
     "3) Operators/3.1) Arithmetic operators.md",
-    "2) Variables/2.2) Declaration.md",
-    "2) Variables/2.4) Referencing variables.md",
-    "2) Variables/2.5) String.md",
-    "2) Variables/2.6) Integer.md",
-    "2) Variables/2.7) Float.md",
-    "2) Variables/2.8) Boolean.md",
-    "2) Variables/2.9) Collections.md",
+    "4) Conditionals",
+    "2) Variables/2.10) Dictionaries.md",
     "2) Variables/2.9) Lists.md",
+    "2) Variables/2.8) Boolean.md",
+    "2) Variables/2.7) Float.md",
+    "2) Variables/2.6) Integer.md",
+    "2) Variables/2.5) String.md",
+    "2) Variables/2.4) Referencing variables.md",
+    "2) Variables/2.3) Assigning a value.md",
+    "2) Variables/2.2) Declaration.md",
+    "2) Variables/2.1) What is a variable.md",
+    "2) Variables/2.9) Collections.md",
+    "1) Starting up/1.3) Comments.md",
+    "1) Starting up/1.2) First line of code.md",
     "3) Operators",
     "2) Variables/2.5) Variable types",
     "2) Variables",
