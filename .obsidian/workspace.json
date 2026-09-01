@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Operators/3.4) Logic operators.md",
+                "file": "4) Conditionals/4.02) Match statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4) Logic operators"
+              "title": "4.02) Match statements"
+            }
+          },
+          {
+            "id": "108e47d64cb9c9ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) Loops/5.01) While loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.01) While loops"
             }
           },
           {
@@ -161,7 +175,8 @@
               "title": "4.1) If conditionals"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,29 +343,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab9abf8b314f62c0",
+  "active": "39901a4460ae0eb3",
   "lastOpenFiles": [
-    "4) Conditionals/4.1) If statements.md",
-    "4) Conditionals/4.2) Match statements.md",
-    "2) Variables/2.9) Lists.md",
-    "2) Variables/2.2) Declaration.md",
-    "2) Variables/2.1) What is a variable.md",
-    "2) Variables/2.4) Referencing variables.md",
-    "2) Variables/2.5) String.md",
-    "2) Variables/2.7) Float.md",
-    "3) Operators/3.4) Logic operators.md",
+    "4) Conditionals/4.02) Match statements.md",
+    "4) Conditionals/4.01) If statements.md",
+    "3) Operators/3.04) Logic operators.md",
     "3) Operators/3.3) Comparison operators.md",
-    "1) Starting up/1.1) Introduction.md",
-    "3) Operators/3.2) Assignment operators.md",
-    "3) Operators/3.1) Arithmetic operators.md",
-    "4) Conditionals",
+    "3) Operators/3.02) Assignment operators.md",
+    "3) Operators/3.01) Arithmetic operators.md",
     "2) Variables/2.10) Dictionaries.md",
-    "2) Variables/2.8) Boolean.md",
-    "2) Variables/2.6) Integer.md",
-    "2) Variables/2.3) Assigning a value.md",
+    "2) Variables/2.09) Lists.md",
+    "2) Variables/2.08) Boolean.md",
+    "2) Variables/2.07) Float.md",
+    "2) Variables/2.06) Integer.md",
+    "2) Variables/2.05) String.md",
+    "2) Variables/2.04) Referencing variables.md",
+    "2) Variables/2.03) Assigning a value.md",
+    "2) Variables/2.02) Declaration.md",
+    "2) Variables/2.01) What is a variable.md",
+    "1) Starting up/1.03) Comments.md",
+    "1) Starting up/1.02) First line of code.md",
+    "1) Starting up/1.01) Introduction.md",
+    "5) Loops/5.01) While loops.md",
+    "5) Loops",
+    "4) Conditionals",
     "2) Variables/2.9) Collections.md",
-    "1) Starting up/1.3) Comments.md",
-    "1) Starting up/1.2) First line of code.md",
     "3) Operators",
     "2) Variables/2.5) Variable types",
     "2) Variables",
