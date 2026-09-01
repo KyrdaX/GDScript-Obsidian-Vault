@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5) Loops/5.01) While loops.md",
+                "file": "2) Variables/2.11) Typing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.01) While loops"
+              "title": "2.11) Typing"
             }
           },
           {
@@ -343,19 +343,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "39901a4460ae0eb3",
+  "active": "108e47d64cb9c9ce",
   "lastOpenFiles": [
-    "4) Conditionals/4.02) Match statements.md",
-    "4) Conditionals/4.01) If statements.md",
-    "3) Operators/3.04) Logic operators.md",
-    "3) Operators/3.3) Comparison operators.md",
-    "3) Operators/3.02) Assignment operators.md",
     "3) Operators/3.01) Arithmetic operators.md",
-    "2) Variables/2.10) Dictionaries.md",
-    "2) Variables/2.09) Lists.md",
-    "2) Variables/2.08) Boolean.md",
-    "2) Variables/2.07) Float.md",
-    "2) Variables/2.06) Integer.md",
+    "2) Variables/2.11) Typing.md",
     "2) Variables/2.05) String.md",
     "2) Variables/2.04) Referencing variables.md",
     "2) Variables/2.03) Assigning a value.md",
@@ -365,6 +356,16 @@
     "1) Starting up/1.02) First line of code.md",
     "1) Starting up/1.01) Introduction.md",
     "5) Loops/5.01) While loops.md",
+    "4) Conditionals/4.02) Match statements.md",
+    "4) Conditionals/4.01) If statements.md",
+    "3) Operators/3.04) Logic operators.md",
+    "3) Operators/3.3) Comparison operators.md",
+    "3) Operators/3.02) Assignment operators.md",
+    "2) Variables/2.10) Dictionaries.md",
+    "2) Variables/2.09) Lists.md",
+    "2) Variables/2.08) Boolean.md",
+    "2) Variables/2.07) Float.md",
+    "2) Variables/2.06) Integer.md",
     "5) Loops",
     "4) Conditionals",
     "2) Variables/2.9) Collections.md",
