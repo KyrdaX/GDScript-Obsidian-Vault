@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Conditionals/4.02) Match statements.md",
+                "file": "5) Loops/5.04) Loop keywords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.02) Match statements"
+              "title": "5.04) Loop keywords"
             }
           },
           {
@@ -343,23 +343,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "39901a4460ae0eb3",
+  "active": "108e47d64cb9c9ce",
   "lastOpenFiles": [
-    "4) Conditionals/4.01) If statements.md",
-    "3) Operators/3.04) Logic operators.md",
-    "3) Operators/3.3) Comparison operators.md",
-    "4) Conditionals/4.02) Match statements.md",
-    "5) Loops/5.01) While loops.md",
-    "5) Loops/5.02) For loops.md",
     "3) Operators/3.02) Assignment operators.md",
+    "5) Loops/5.04) Loop keywords.md",
+    "5) Loops/5.03) For loops.md",
+    "4) Conditionals/4.01) If statements.md",
+    "4) Conditionals/4.02) Match statements.md",
+    "5) Loops/5.02) While loops.md",
+    "5) Loops/5.01) What is an iteration.md",
+    "2) Variables/2.05) String.md",
     "3) Operators/3.01) Arithmetic operators.md",
+    "3) Operators/3.3) Comparison operators.md",
+    "3) Operators/3.04) Logic operators.md",
     "2) Variables/2.11) Typing.md",
     "2) Variables/2.10) Dictionaries.md",
     "2) Variables/2.09) Lists.md",
     "2) Variables/2.08) Boolean.md",
     "2) Variables/2.07) Float.md",
     "2) Variables/2.06) Integer.md",
-    "2) Variables/2.05) String.md",
     "2) Variables/2.04) Referencing variables.md",
     "2) Variables/2.03) Assigning a value.md",
     "2) Variables/2.02) Declaration.md",
