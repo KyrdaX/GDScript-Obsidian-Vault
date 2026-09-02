@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06) Functions/6.06) Typing.md",
+                "file": "04) Conditionals/4.01) If statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.06) Typing"
+              "title": "4.01) If statements"
             }
           },
           {
@@ -359,21 +359,21 @@
   },
   "active": "d34f25c363208348",
   "lastOpenFiles": [
+    "04) Conditionals/4.02) Match statements.md",
+    "05) Loops/5.01) What is an iteration.md",
+    "05) Loops/5.02) While loops.md",
+    "05) Loops/5.03) For loops.md",
+    "05) Loops/5.04) Loop keywords.md",
+    "06) Functions/6.06) Typing.md",
     "06) Functions/6.05) Scope.md",
     "06) Functions/6.04) Return.md",
     "06) Functions/6.03) Parameters.md",
     "06) Functions/6.02) Declaration and calling.md",
     "06) Functions/6.01) What is a function.md",
-    "06) Functions/6.06) Typing.md",
-    "05) Loops/5.04) Loop keywords.md",
     "06) Functions",
     "6) Functions.md",
     "03) Operators/3.02) Assignment operators.md",
-    "05) Loops/5.03) For loops.md",
     "04) Conditionals/4.01) If statements.md",
-    "04) Conditionals/4.02) Match statements.md",
-    "05) Loops/5.02) While loops.md",
-    "05) Loops/5.01) What is an iteration.md",
     "02) Variables/2.05) String.md",
     "03) Operators/3.01) Arithmetic operators.md",
     "03) Operators/3.3) Comparison operators.md",
